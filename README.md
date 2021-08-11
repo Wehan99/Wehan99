@@ -43,6 +43,9 @@
 <br>
 <br>
 
+
+
+
 <h2 align="center">My Github Stats</h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wehan99&&layout=compact&bg_icons=true&count_private=true&theme=dracula">
@@ -52,6 +55,12 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wehan99&theme=dracula">
   </p>
-  <p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=Wehan99&theme=onedark">
-</p>
+  <h2> </h2>
+  <div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+<h3> </h3>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>  
+ 
